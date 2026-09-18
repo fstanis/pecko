@@ -1,0 +1,1027 @@
+{
+  "title": "PECKO 1.2",
+  "greeting": [
+    {
+      "attr": 14,
+      "text": "Cao ! Ja sam Pecko - super genije ! Pravim drustvo svima koji me vole."
+    },
+    {
+      "attr": 14,
+      "text": "Moj gazda me naucio da odgovaram na sva pitanja. Mozes da me pitas"
+    },
+    {
+      "attr": 14,
+      "text": "sve sto ti padne na pamet - odgovaram 100% ! Da bi dobio sto bolji"
+    },
+    {
+      "attr": 14,
+      "text": "odgovor, potrudi se da ti pitanja budu jasna i precizna."
+    },
+    {
+      "attr": 14,
+      "text": "Na vasoj sam usluzi..."
+    },
+    {
+      "attr": 14,
+      "text": ""
+    },
+    {
+      "attr": 12,
+      "text": "Ako te ne mrzi, pogledaj na www.peca.co.yu da li je izasao Pecko 2.0"
+    },
+    {
+      "attr": 11,
+      "text": "Ako ukucas jedan tajni broj, dacu ti tajnu sifru koju trebas da"
+    },
+    {
+      "attr": 11,
+      "text": "posaljes mom gazdi na gazda@zastita.co.yu i moj gazda ce ti besplatno"
+    },
+    {
+      "attr": 11,
+      "text": "postaviti reklamu na najboljem YU sajtu www.zastita.co.yu !"
+    },
+    {
+      "attr": 11,
+      "text": "Znaci, potrudi se da je otkrijes. Resenje je tu negde..."
+    },
+    {
+      "attr": 11,
+      "text": ""
+    },
+    {
+      "attr": 13,
+      "text": "P.S. Poseti nase sajtove: www.zastita.co.yu (zastiti se od viruse i hakera),"
+    },
+    {
+      "attr": 13,
+      "text": "    www.game.co.yu, www.download.co.yu, www.mp3.co.yu, www.pancevo.co.yu..."
+    },
+    {
+      "attr": 13,
+      "text": ""
+    },
+    {
+      "attr": 13,
+      "text": "S.P.S. (Special P.S.) : Ako hoces da izadjes samo stisni Enter!"
+    }
+  ],
+  "buckets": {
+    "prostak": ["Prostaku jedan! Nasao si samnom o tome da pricas. Sramte bilo. Strajkujem 5 sekundi !"],
+    "secretHints": [
+      "Istina je tu negde. Budi uporan. Ako budes dovoljno uporan, recicu ti gde se krije lozinka - obecavam !",
+      "Znas kako, vidim da si uporan, ali mora jos malo - sorry !",
+      "Bravo, ti si stvarno uporan. Ok, The truth is out there!",
+      "Pa ti si najuporniji covek koga sam video. Jos samo malo, veruj mi - jos samo malo. Evo da ti pomognem, lozinka se ne krije u ovom programu. Lozinku mozes da otkrijes ako budes uporan jos samo jedanput.",
+      "Evo ruke, pobedio si. Lozinka se krije na Internetu :))) - sve sam ti rekao, a? Epa, ako mucnes malo glavu ukapiraces gde bi tacno mogla da bude.",
+      "Rekao sam ti, lozinka se krije ne Internetu. Razmisli malo, ona se sigurno ne krije na tudjim sajtovima i emailovima nego tamo gde Peca moze da je postavi. Znaci, pronadji njegov homepage pa tu trazi. Kada nadjes, ukucaj u jedan program koji je veoma popularan i svi ga imaju, i dobices tajnu lozinku! Ime programa ima 3 slova a prvo je I. Snadji se.",
+      "Epa ne mogu vise da ti pomazem. Ovde je kraj."
+    ],
+    "soundOff": ["Da gospodaru, zvuk je iskljucen."],
+    "soundOn": ["Da gospodaru, zvuk je ukljucen."],
+    "password": [
+      "Otkrio si tajnu lozinku. Sada posalji email na pexi@cent.co.yu i kazi mu lozinku koju si malopre ukucao."
+    ],
+    "plavaBoja": ["Plave boje !"],
+    "pitajGa": ["Pitaj ga. Njegov email je pexi@cent.co.yu !"],
+    "bolujem": ["Bolujem ja, bolujes Ti, bolujemo od ljubavi..."],
+    "modalHocu": ["Hocu - daj odmah !"],
+    "modalVolim": ["Volim i to mnogo !"],
+    "modal": [
+      "Da!",
+      "Ne.",
+      "Maybe baby !",
+      "Da bre.",
+      "Ne bre.",
+      "Mozda - nisam siguran pa ne bih da te lazem :(((",
+      "Mozda!",
+      "Da bre - 100% sam siguran",
+      "Pa da !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "Pa ne bre."
+    ],
+    "zovePeca": ["Zove se Predrag Damnjanovic - Peca . Njegov email je pexi@cent.co.yu"],
+    "zovePamela": ["Zove se Pamela Anderson"],
+    "zovePiskalina": ["Zena mi se zove Piskalina!"],
+    "zovePisko": ["Moj najbolji drug je Pisko!"],
+    "zoveBane": ["Zove se Bratislav Damnjanovic - Bane"],
+    "zoveDjeka": ["Zove se Damnjanovic Andjelka - Djeka"],
+    "zoveNames": ["Dobrivoje", "Ruzica Damnjanovic", "Rajko", "Zivana", "Momir", "Dragomir", "Pobratim Rugoba"],
+    "moj": [
+      "Moj.",
+      "Tvoj!",
+      "Njihov !!",
+      "Gazdin.",
+      "Pamelin !!",
+      "Uh, prorade mi cir - idem da jedem, ne mogu sad da pricam."
+    ],
+    "moja": [
+      "Moja.",
+      "Tvoja!",
+      "Njihova !!",
+      "Gazdina.",
+      "Pamelina !!",
+      "Uh, uvati me gorusica, ne mogu sad da pricam."
+    ],
+    "moji": [
+      "Moji.",
+      "Tvoji!",
+      "Njihovi !!",
+      "Gazdini.",
+      "Pamelini !!",
+      "Epa necu da ti odgovorim koji ! Idi kod psihijatra pa nek ti on odgovori."
+    ],
+    "moje": [
+      "Moje.",
+      "Tvoje!",
+      "Njihove !!",
+      "Gazdine.",
+      "Pameline !!",
+      "Slusaj, nisam ja toliko pametan da bi odgovorio na takvo glupo pitanje!"
+    ],
+    "moju": [
+      "Moju.",
+      "Pamelinu !!              :))) Trrrrrrrrrrrt milojke ;)))",
+      "Njihovu !!",
+      "Gazdinu.",
+      "Tvoju!",
+      "Sta te bre briga! Ja cu svoju a ti uzmi tvoju!"
+    ],
+    "kolikGodina": [
+      "Pa izracunaj : rodjen sam 21.03.1999. godine. a danas je taj i taj datum. Oduzmi gi i dobices koliko imam godina."
+    ],
+    "kolik": ["Malo.", "Toliko koliko te ja volim.", "Ovoliko.", "Mnogo.", "Vrlo malo.", "Beskonacno mlogo."],
+    "rodjen": ["Rodjen sam 21.03.1999. godine."],
+    "kad": [
+      "Prekjuce.",
+      "Malo sutra.",
+      "Kad na vrbi rodi lojze.",
+      "Sutra uvece.",
+      "Juce.",
+      "U Petak.",
+      "Marta.",
+      "Za 20 godina."
+    ],
+    "zaCuricu": ["Za gazdinu curicu."],
+    "zaRibu": ["Za moju ribu - Pamelu Anderson."],
+    "zaRadnicki": ["Za Radnicki Nis"],
+    "za": [
+      "Za budale.",
+      "Za tebe.",
+      "Za mene",
+      "Za gazdu.",
+      "Za Pamelu.",
+      "Za onog iz Donju Dubravu.",
+      "Za Sindi Kraford.",
+      "Za Jelenu Karausu !!!"
+    ],
+    "od": [
+      "Od budale i zbunjene.",
+      "Od tebe.",
+      "Za mene",
+      "Od gazde.",
+      "Od Pamele.",
+      "Od onog iz Donju Dubravu.?",
+      "Od Sindi Kraford.",
+      "Od Jelene Karause !!!"
+    ],
+    "kakoZoves": ["Zovem se Pecko!"],
+    "kakoZovem": ["Neznam bre kako se zoves"],
+    "kakoZov": ["Pa kako bese ime, podseti me!"],
+    "kakoRad": ["Jebem li ga, radi nekako."],
+    "kakoZivi": ["Pa svi zive na svoj nacin"],
+    "kakoPsuj": ["Jedi govna, pushi ga, hahahaha..."],
+    "kakoSi": ["Super sam, nikad bolje! A ti kako si?"],
+    "kakoPeva": [
+      "Pa svi pevaju pa cak i ja. Da vidis samo kad pocnem 'Jecam zela, kosovka devoooojkaaaaaa, jecam, zito, majcice...'. A, sta kazes?????"
+    ],
+    "kakoZena": ["Dobro su mi zena i deca. Je li bre, zasto se ti raspitujes za moju zenu, svaleru jedan?"],
+    "kakoMisli": ["Pa misli nekako, kuva se nesto u glavi"],
+    "kakoPrica": ["Prica, prica, tra la la la la..."],
+    "kakoVoli": ["Moje srce se pukne koliko voli !"],
+    "kakoBije": ["Dinge, dinge u glavu i ubijes stoku."],
+    "kakoSpav": ["Uuu, po celu noc hrcem, hrk hrk..."],
+    "kakoGled": ["Jedva zivo, pitam se, da li se vidi nesto?"],
+    "kakoJed": ["Jebem li ga, guta nekako."],
+    "kakoPije": ["Pijan sam, oh, ne mogu ti reci nista. Iskljuci me."],
+    "kako": [
+      "Jedva zivo",
+      "Kako? Pa lepo brate!",
+      "Pa nije valjda da neznas kako?",
+      "Nekako.",
+      "Tako lepo.",
+      "Lepo bre.",
+      "Prosto.",
+      "Mnogo si primitivan. Pa lepo, uzmes motku pa dinge, dinge, dinge u glavu i gotovo brate!."
+    ],
+    "staZnas": ["Sta znam? E pa to je malo opsirniji pojam. Znam sve - sigurno vise od Piska!"],
+    "staJede": ["Jebem li ga, guta nesto, benzin mozda."],
+    "staMisl": ["Nista ja ne mislim, ti imas mozak pa misli."],
+    "staRekao": ["Nista nisam rekao, nastavi da pricas"],
+    "staSi": ["Ja nisam nista. Ja sam samo glupi program. Gazda kaze da sam genije."],
+    "staSam": ["nista bre, ne brini se"],
+    "staRadis": ["Pricam s' tebe i cekam tvoju zapovest."],
+    "staZove": ["Ne znam, ime ne mogu da se setim."],
+    "staSu": ["Ono bre, samo da se setim..."],
+    "staRad": ["Jebem li ga, radi se nesto."],
+    "staZivi": ["Pa zive svi."],
+    "staPsuj": ["Ne, ja necu ni da cujem o psovanju"],
+    "staSlusa": ["Slusaj, jer cujes nesto?"],
+    "staPeva": [
+      "Pa svi pevaju  i sviraju. Da vidis samo kad pocnem 'Mirno spavaj nano, sve je otvoreno, moje srce...'. A, sta kazes?????"
+    ],
+    "staZen": ["Ne razumem se u bracne stvari."],
+    "staMislis": ["Sta te briga, to je moje misljenje. I ja imam pravo da mislim"],
+    "staPrica": ["Pricam da si lud!"],
+    "staVoli": ["Sve voli, pa cak i tebe!!"],
+    "staBije": ["Najbolje se bije sa motku. Dinge, dinge u glavu..."],
+    "staSpav": ["Spava se svima"],
+    "staGledas": ["Tebe gledam."],
+    "staPije": ["Ah, ja pijem samo struju, za drugog me boli uvce"],
+    "sta": [
+      "Neznam",
+      "Sta? Pa nista!",
+      "Nesto",
+      "Nista",
+      "Sve.",
+      "Sta 'sta' ?",
+      "Pa to ti je... samo da se setim... Cekaj...",
+      "Uh, to je ono. Rekao sam ti malopre bre!"
+    ],
+    "kakv": ["Lep.", "Ruzan!", "Lakiran.", "Izgreban.", "Izumban.", "Izbusen."],
+    "koBuca": ["Buca? Pa Buca je Pecin drug sa Interneta. Njegov email je buca@cent.co.yu !"],
+    "koStane": ["Stane je isto Pecin drug. Njegov email je stane@503c1.elfak.ni.ac.yu - mnogo mu dugacak, zar ne?"],
+    "koNenad": ["Nenad je Pecin burazer."],
+    "koDusan": [
+      "Peca ima dva druga Dusana. Jedan je Dusan Zivanovic i njegov email je king@cent.co.yu a drugi je Dusan Stojkovic i njegov homepage je na adresi www.dusko.co.yu !"
+    ],
+    "koNikola": ["Uhh, taj je mlogo opasan, razbija programiranje. On je Nesin brat."],
+    "koNesa": ["Pa zna se - Nesa car. Adresa njegovog homepaga je www.inline.co.yu !"],
+    "koGazda": ["Predrag Damnjanovic - Peca je moj gazda. Njegov email je pexi@cent.co.yu"],
+    "koPamela": ["Pamela Anderson"],
+    "koPiskalina": ["Piskalina!"],
+    "koDrug": ["Moj najbolji drug je Pisko! A Pecini drugovi su Buca, Stane, Dusan, Nesa car, Nikola, Dusan, itd."],
+    "koBane": ["Bratislav Damnjanovic - Bane"],
+    "koDjeka": ["Damnjanovic Andjelka - Djeka"],
+    "koBrat": ["Nenad Damnjanovic - pisi mu na pexi@cent.co.yu !"],
+    "koSi": ["Ja sam Pecko - super genije. Ja sam mali i sitan ali veoma bitan!"],
+    "koSamJa": ["Ti si moj mucitelj ! Grrrrrr Grrrrrr AvAvAv..."],
+    "koRadi": ["Niko ne radi, samo ja ovdi rintam."],
+    "koZove": ["Ona svilena buba iz Svilajnac"],
+    "koPsuj": ["Samo ti - ostali svet je kurtulan."],
+    "koSlusa": ["Ovi sto me prate - pun sam sa prisluskivaci !"],
+    "koPeva": [
+      "Pa svi pevaju  i sviraju. Da vidis samo kad pocnem : 'Mirno spavaj nano, sve je otvoreno, moje srce...'. A, sta kazes?????"
+    ],
+    "koPrica": ["Pa samo pricalica moze to da prica"],
+    "koVolis": ["Jelenu Karausu."],
+    "koVoli": ["Niko. Sam se volim"],
+    "koBije": ["Pa ja bijem i to sa motku. Dinge, dinge u glavu..."],
+    "koNavija": ["Pa ja navijam."],
+    "koSpav": ["Pamela spava. Sad cu iskoristim situaciju pa cu je zalepim."],
+    "koGleda": ["Ja gledam."],
+    "koJede": ["Moj gazda - samo krka."],
+    "koPije": ["Sindi Kraford - sve sam gu napio."],
+    "ko": [
+      "Uhh, taj razbiva lozinke - bolje da ne znas ko je.",
+      "Bolje da ne znas - taj ne zna sta ne zna.",
+      "Ne smem da ti reknem jer...",
+      "To je onaj sto su mi zabranili da ti pricam o njemu.",
+      "Robert Kuk - zvani Sova.",
+      "Uff, od tog olosa mi se povraca, nemoj mi ga vise spominjes.",
+      "Pobratim Rugoba",
+      "Onaj iz Donju Dubravu.",
+      "Onaj iz Palilulu - znas onaj sto samo pali lulu."
+    ],
+    "gdeGazda": ["Moj gazda zivi u Nis, pored Nisku Banju - cist Nislija"],
+    "gdeZivis": ["Ja zivim u tvom kompjuteru - tacno ispred tvog nosa!"],
+    "gdeSamJa": ["Ti si pored mene ! Mjauu, leprrrrr..."],
+    "gdeTi": ["Ne znam - izgubio sam ga negde !"],
+    "gde": [
+      "Levo",
+      "Tamo daleko...",
+      "Negde...",
+      "Svuda.",
+      "Nigde - to ne postoji.",
+      "U Nisu - Nis je centar sveta - tu se skuplja sva svemirska energija. U Nisu ima sve !",
+      "Iza 7 brda i iza 7 mora...",
+      "Tu blizu."
+    ],
+    "sto": [
+      "Neznam zasto.",
+      "Zato i zato i ne pitaj vise to.",
+      "Razlog mi je nepoznat.",
+      "Zato sto je mrav polomio nogicu.",
+      "Zato sto ja tako kazem i tako ima da bidne.",
+      "Zbog sira i oprostajne muzike. Tuu, tuuu, TUTUUUU, NANANA, NANANANA NA NAAAAAAAA!",
+      "Zbog mene - ja sam dezurni krivac.",
+      "Zato sto mi je cvecka na levu stranu."
+    ],
+    "da": [
+      "Ne.",
+      "Da, sigurno!",
+      "Epa zavisi...",
+      "Mozda.",
+      "Nisam siguran, provericu kasnije.",
+      "Naj verovatnije da."
+    ],
+    "ceg": ["Od tebe!", "Od mene.", "Od nikoga.", "Od svih zivih.", "Od svalerke.", "Od zene."],
+    "kogaVolis": ["Samo tebe volim!"],
+    "kogaGledas": ["Pa tebe gledam!"],
+    "koga": ["Tebe!", "Mene.", "Nikoga.", "Sve zive.", "Sve ljude ovog predivnog sveta.", "Po nekoga."],
+    "okCare": ["OK care !"],
+    "budiVeseo": ["E bre. Budi veseo, kao ja!"],
+    "fallback": [
+      "Grrrrrr, grrrrr, naljuticu se jer mi govoris nesto a ja te ne razumem. Pitaj me bre nesto za muziku !",
+      "Avavavavavav, ljut sam sto me ne pitas nesto ! Pitaj me bre nesto iz sporta !",
+      "Mjauuuuu, mjauuuuu, leprrrrrr... rekao sam ti - nisam ja Pecko 2.0 nego Pecko 1.2 . Pecko 1.2 zna samo da odgovaram na pitanja. Moj gazda obecava da ce Pecko 2.0 (Pecko 2000) biti mnogo pametniji i da ce biti genije jer ces  moci s' njim da pricas kao i sa svima ostalima. Posalji email na pexi@cent.co.yu pa ga pitaj da li je izasla neka bolja verzija od ove.",
+      "Dosta bre vise. Nemoj vise da mi pricas. Pitaj me bre nesto iz istorije !",
+      "Jer mi se to cini ili ti to pokusavas da me zbunis? Pitaj me bre nesto iz geografije !",
+      "Sta pricas bre?? Ne razumem te. Ja znam samo da odgovaram na pitanja !"
+    ]
+  },
+  "matchers": {
+    "modal": {
+      "match": [
+        {
+          "keywords": ["hoces", "zelis"],
+          "bucket": "modalHocu"
+        },
+        {
+          "keywords": ["volis"],
+          "bucket": "modalVolim"
+        }
+      ],
+      "else": {
+        "bucket": "modal"
+      }
+    },
+    "zove": {
+      "match": [
+        {
+          "keywords": ["gazda", "tvorac", "peca", "genije"],
+          "bucket": "zovePeca"
+        },
+        {
+          "keywords": ["cura", "riba", "devojka", "svalerka"],
+          "bucket": "zovePamela"
+        },
+        {
+          "keywords": ["zena"],
+          "bucket": "zovePiskalina"
+        },
+        {
+          "keywords": ["drug"],
+          "bucket": "zovePisko"
+        },
+        {
+          "keywords": ["tata", "cale", "otac"],
+          "bucket": "zoveBane"
+        },
+        {
+          "keywords": ["mama", "keva", "majka"],
+          "bucket": "zoveDjeka"
+        }
+      ],
+      "else": {
+        "bucket": "zoveNames"
+      }
+    },
+    "kojMasc": {
+      "match": [
+        {
+          "keywords": ["boj"],
+          "bucket": "plavaBoja"
+        }
+      ],
+      "else": {
+        "bucket": "moj"
+      }
+    },
+    "kojFem": {
+      "match": [
+        {
+          "keywords": ["boj"],
+          "bucket": "plavaBoja"
+        }
+      ],
+      "else": {
+        "bucket": "moja"
+      }
+    },
+    "kojPlural": {
+      "match": [
+        {
+          "keywords": ["boj"],
+          "bucket": "plavaBoja"
+        }
+      ],
+      "else": {
+        "bucket": "moji"
+      }
+    },
+    "kojNeuter": {
+      "match": [
+        {
+          "keywords": ["boj"],
+          "bucket": "plavaBoja"
+        }
+      ],
+      "else": {
+        "bucket": "moje"
+      }
+    },
+    "kojAccFem": {
+      "match": [
+        {
+          "keywords": ["boj"],
+          "bucket": "plavaBoja"
+        }
+      ],
+      "else": {
+        "bucket": "moju"
+      }
+    },
+    "kolik": {
+      "match": [
+        {
+          "keywords": ["godina"],
+          "bucket": "kolikGodina"
+        }
+      ],
+      "else": {
+        "bucket": "kolik"
+      }
+    },
+    "kad": {
+      "match": [
+        {
+          "keywords": ["rodjen"],
+          "bucket": "rodjen"
+        }
+      ],
+      "else": {
+        "bucket": "kad"
+      }
+    },
+    "za": {
+      "match": [
+        {
+          "keywords": [" si "],
+          "bucket": "zaCuricu"
+        },
+        {
+          "keywords": ["radi"],
+          "bucket": "zaRibu"
+        },
+        {
+          "keywords": ["navija"],
+          "bucket": "zaRadnicki"
+        }
+      ],
+      "else": {
+        "bucket": "za"
+      }
+    },
+    "kako": {
+      "match": [
+        {
+          "keywords": ["zoves"],
+          "bucket": "kakoZoves"
+        },
+        {
+          "keywords": ["zovem"],
+          "bucket": "kakoZovem"
+        },
+        {
+          "keywords": ["zove "],
+          "matcher": "zove"
+        },
+        {
+          "keywords": ["zov"],
+          "bucket": "kakoZov"
+        },
+        {
+          "keywords": ["rad"],
+          "bucket": "kakoRad"
+        },
+        {
+          "keywords": ["zivi"],
+          "bucket": "kakoZivi"
+        },
+        {
+          "keywords": ["psuj"],
+          "bucket": "kakoPsuj"
+        },
+        {
+          "keywords": [" si "],
+          "bucket": "kakoSi"
+        },
+        {
+          "keywords": ["peva", "svir"],
+          "bucket": "kakoPeva"
+        },
+        {
+          "keywords": ["zena", "deca"],
+          "bucket": "kakoZena"
+        },
+        {
+          "keywords": ["misli"],
+          "bucket": "kakoMisli"
+        },
+        {
+          "keywords": ["prica"],
+          "bucket": "kakoPrica"
+        },
+        {
+          "keywords": ["voli"],
+          "bucket": "kakoVoli"
+        },
+        {
+          "keywords": ["bije"],
+          "bucket": "kakoBije"
+        },
+        {
+          "keywords": ["gazda", "tvorac"],
+          "bucket": "pitajGa"
+        },
+        {
+          "keywords": ["spav"],
+          "bucket": "kakoSpav"
+        },
+        {
+          "keywords": ["bol"],
+          "bucket": "bolujem"
+        },
+        {
+          "keywords": ["gled"],
+          "bucket": "kakoGled"
+        },
+        {
+          "keywords": ["jed"],
+          "bucket": "kakoJed"
+        },
+        {
+          "keywords": ["pije"],
+          "bucket": "kakoPije"
+        }
+      ],
+      "else": {
+        "bucket": "kako"
+      }
+    },
+    "sta": {
+      "match": [
+        {
+          "keywords": ["znas"],
+          "bucket": "staZnas"
+        },
+        {
+          "keywords": ["jede"],
+          "bucket": "staJede"
+        },
+        {
+          "keywords": ["misl"],
+          "bucket": "staMisl"
+        },
+        {
+          "keywords": ["rekao", "rece"],
+          "bucket": "staRekao"
+        },
+        {
+          "keywords": [" si "],
+          "bucket": "staSi"
+        },
+        {
+          "keywords": ["sam"],
+          "bucket": "staSam"
+        },
+        {
+          "keywords": ["radis"],
+          "bucket": "staRadis"
+        },
+        {
+          "keywords": ["zove"],
+          "bucket": "staZove"
+        },
+        {
+          "keywords": [" je ", " su ", " smo ", " ste "],
+          "bucket": "staSu"
+        },
+        {
+          "keywords": ["rad"],
+          "bucket": "staRad"
+        },
+        {
+          "keywords": ["zivi"],
+          "bucket": "staZivi"
+        },
+        {
+          "keywords": ["psuj"],
+          "bucket": "staPsuj"
+        },
+        {
+          "keywords": ["slusa"],
+          "bucket": "staSlusa"
+        },
+        {
+          "keywords": ["peva", "svir"],
+          "bucket": "staPeva"
+        },
+        {
+          "keywords": ["zen", "dec"],
+          "bucket": "staZen"
+        },
+        {
+          "keywords": ["mislis"],
+          "bucket": "staMislis"
+        },
+        {
+          "keywords": ["prica"],
+          "bucket": "staPrica"
+        },
+        {
+          "keywords": ["voli"],
+          "bucket": "staVoli"
+        },
+        {
+          "keywords": ["bije"],
+          "bucket": "staBije"
+        },
+        {
+          "keywords": ["gazda", "tvorac"],
+          "bucket": "pitajGa"
+        },
+        {
+          "keywords": ["spav"],
+          "bucket": "staSpav"
+        },
+        {
+          "keywords": ["bol"],
+          "bucket": "bolujem"
+        },
+        {
+          "keywords": ["gledas"],
+          "bucket": "staGledas"
+        },
+        {
+          "keywords": ["pije"],
+          "bucket": "staPije"
+        }
+      ],
+      "else": {
+        "bucket": "sta"
+      }
+    },
+    "ko": {
+      "match": [
+        {
+          "keywords": ["buca"],
+          "bucket": "koBuca"
+        },
+        {
+          "keywords": ["stane"],
+          "bucket": "koStane"
+        },
+        {
+          "keywords": ["nenad"],
+          "bucket": "koNenad"
+        },
+        {
+          "keywords": ["dusko", "dusan"],
+          "bucket": "koDusan"
+        },
+        {
+          "keywords": ["nikola", "nidza"],
+          "bucket": "koNikola"
+        },
+        {
+          "keywords": [" car ", "nesa"],
+          "bucket": "koNesa"
+        },
+        {
+          "keywords": ["gazda", "tvorac", "peca", "genije"],
+          "bucket": "koGazda"
+        },
+        {
+          "keywords": ["cura", "riba", "devojka", "svalerka"],
+          "bucket": "koPamela"
+        },
+        {
+          "keywords": ["zena"],
+          "bucket": "koPiskalina"
+        },
+        {
+          "keywords": ["drug"],
+          "bucket": "koDrug"
+        },
+        {
+          "keywords": ["deda", "tata", "cale", "otac"],
+          "bucket": "koBane"
+        },
+        {
+          "keywords": ["mama", "keva", "majka", "baba"],
+          "bucket": "koDjeka"
+        },
+        {
+          "keywords": ["brat", "burazer"],
+          "bucket": "koBrat"
+        },
+        {
+          "keywords": [" si "],
+          "bucket": "koSi"
+        },
+        {
+          "keywords": ["sam ja"],
+          "bucket": "koSamJa"
+        },
+        {
+          "keywords": ["radi"],
+          "bucket": "koRadi"
+        },
+        {
+          "keywords": ["zove"],
+          "bucket": "koZove"
+        },
+        {
+          "keywords": ["psuj"],
+          "bucket": "koPsuj"
+        },
+        {
+          "keywords": ["slusa"],
+          "bucket": "koSlusa"
+        },
+        {
+          "keywords": ["peva", "svir"],
+          "bucket": "koPeva"
+        },
+        {
+          "keywords": ["prica"],
+          "bucket": "koPrica"
+        },
+        {
+          "keywords": ["volis"],
+          "bucket": "koVolis"
+        },
+        {
+          "keywords": ["voli"],
+          "bucket": "koVoli"
+        },
+        {
+          "keywords": ["bije"],
+          "bucket": "koBije"
+        },
+        {
+          "keywords": ["navija"],
+          "bucket": "koNavija"
+        },
+        {
+          "keywords": ["spav"],
+          "bucket": "koSpav"
+        },
+        {
+          "keywords": ["bol"],
+          "bucket": "bolujem"
+        },
+        {
+          "keywords": ["gleda"],
+          "bucket": "koGleda"
+        },
+        {
+          "keywords": ["jede"],
+          "bucket": "koJede"
+        },
+        {
+          "keywords": ["pije"],
+          "bucket": "koPije"
+        }
+      ],
+      "else": {
+        "bucket": "ko"
+      }
+    },
+    "gde": {
+      "match": [
+        {
+          "keywords": ["gazda"],
+          "bucket": "gdeGazda"
+        },
+        {
+          "keywords": [" si ", "zivis"],
+          "bucket": "gdeZivis"
+        },
+        {
+          "keywords": ["sam ja"],
+          "bucket": "gdeSamJa"
+        },
+        {
+          "keywords": [" ti "],
+          "bucket": "gdeTi"
+        }
+      ],
+      "else": {
+        "bucket": "gde"
+      }
+    },
+    "koga": {
+      "match": [
+        {
+          "keywords": ["volis"],
+          "bucket": "kogaVolis"
+        },
+        {
+          "keywords": ["gledas"],
+          "bucket": "kogaGledas"
+        }
+      ],
+      "else": {
+        "bucket": "koga"
+      }
+    }
+  },
+  "pipeline": [
+    {
+      "prefix": [
+        {
+          "keywords": ["iskljuci zvuk", "zz"],
+          "bucket": "soundOff",
+          "sound": "off"
+        },
+        {
+          "keywords": ["ukljuci zvuk"],
+          "bucket": "soundOn",
+          "sound": "on"
+        },
+        {
+          "keywords": ["12477073"],
+          "bucket": "password"
+        }
+      ]
+    },
+    {
+      "scan": [
+        {
+          "keywords": [
+            "govn",
+            "peder",
+            "stok",
+            "svinj",
+            "kurac",
+            " mi ga ",
+            "pick",
+            "sex",
+            "pusi",
+            "sperm",
+            "porn",
+            "erot",
+            "jeb",
+            "kara",
+            "seks",
+            "sisa",
+            "sise",
+            "sisu",
+            "sisk",
+            "siso"
+          ],
+          "bucket": "prostak",
+          "strike": true
+        },
+        {
+          "keywords": ["sifra", "resenje", "lozink", "tajn", "istina"],
+          "bucket": "secretHints",
+          "seq": true
+        }
+      ]
+    },
+    {
+      "prefix": [
+        {
+          "keywords": ["jer", "jel", "el "],
+          "matcher": "modal"
+        }
+      ]
+    },
+    {
+      "scan": [
+        {
+          "keywords": ["da li "],
+          "matcher": "modal"
+        },
+        {
+          "keywords": ["kolik"],
+          "matcher": "kolik"
+        },
+        {
+          "keywords": ["kad ", "kada "],
+          "matcher": "kad"
+        },
+        {
+          "keywords": ["za ", "zasta "],
+          "matcher": "za"
+        },
+        {
+          "keywords": ["od ", "odakle "],
+          "bucket": "od"
+        },
+        {
+          "keywords": ["kako "],
+          "matcher": "kako"
+        },
+        {
+          "keywords": ["sta "],
+          "matcher": "sta"
+        },
+        {
+          "keywords": ["kakv", "kakav"],
+          "bucket": "kakv"
+        },
+        {
+          "keywords": ["ko "],
+          "matcher": "ko"
+        },
+        {
+          "keywords": ["gde "],
+          "matcher": "gde"
+        },
+        {
+          "keywords": ["sto "],
+          "bucket": "sto"
+        }
+      ]
+    },
+    {
+      "scan": [
+        {
+          "keywords": ["koj ", "cij "],
+          "matcher": "kojMasc"
+        },
+        {
+          "keywords": ["koja", "cija"],
+          "matcher": "kojFem"
+        },
+        {
+          "keywords": ["koji", "ciji"],
+          "matcher": "kojPlural"
+        },
+        {
+          "keywords": ["koje", "cije"],
+          "matcher": "kojNeuter"
+        },
+        {
+          "keywords": ["koju", "ciju"],
+          "matcher": "kojAccFem"
+        },
+        {
+          "keywords": ["da "],
+          "bucket": "da"
+        },
+        {
+          "keywords": ["cega", "ceg "],
+          "bucket": "ceg"
+        },
+        {
+          "keywords": ["koga", "kog "],
+          "matcher": "koga"
+        },
+        {
+          "keywords": [
+            " li ",
+            " je ",
+            " su ",
+            " sam ",
+            " si ",
+            " smo ",
+            " ste ",
+            " se ",
+            " cu ",
+            " ces ",
+            " ce ",
+            " cemo ",
+            " cete "
+          ],
+          "matcher": "modal"
+        }
+      ]
+    },
+    {
+      "scan": [
+        {
+          "keywords": ["fino", "dobro", "super"],
+          "bucket": "okCare"
+        },
+        {
+          "keywords": ["lose", "onako", "tuzno"],
+          "bucket": "budiVeseo"
+        }
+      ]
+    },
+    {
+      "scan": [
+        {
+          "keywords": ["s "],
+          "matcher": "modal"
+        }
+      ]
+    }
+  ],
+  "fallback": "fallback"
+}
