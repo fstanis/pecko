@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="sr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, interactive-widget=resizes-content" />
+    <title>PECKO 1.2F</title>
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src data:; font-src data:; base-uri 'none'; form-action 'none'"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="monitor">
+      <canvas id="crt" aria-label="PECKO terminal"></canvas>
+      <img class="monitor-art" src="./monitor.svg" alt="" />
+      <input
+        id="keyboard-proxy"
+        maxlength="255"
+        type="text"
+        autocomplete="off"
+        autocapitalize="off"
+        autocorrect="off"
+        spellcheck="false"
+        enterkeyhint="send"
+        aria-hidden="true"
+        tabindex="-1"
+      />
+    </div>
+    <a class="ribbon" href="https://github.com/fstanis/pecko" rel="noopener" target="_blank"
+      ><img
+        loading="lazy"
+        decoding="async"
+        width="149"
+        height="149"
+        src="./forkme-right-white.png"
+        class="attachment-full size-full"
+        alt="Fork me on GitHub"
+    /></a>
+    <script type="module" src="../src/app.ts"></script>
+  </body>
+</html>

@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'More Perfect DOS VGA';
+  src: url('./MorePerfectDOSVGA.ttf') format('truetype');
+}
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  height: 100%;
+}
+
+html,
+body {
+  margin: 0;
+  background: #101010;
+  overflow: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+
+body {
+  height: var(--vvh, 100%);
+  display: grid;
+  place-items: center;
+}
+
+.monitor {
+  position: relative;
+  touch-action: manipulation;
+  width: min(96vw, calc(var(--vvh, 100vh) * 0.94 * 682.94 / 578.87));
+  aspect-ratio: 682.94 / 578.87;
+  filter: drop-shadow(0 24px 80px rgba(0, 0, 0, 0.85));
+}
+
+.monitor-art {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.ribbon {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+canvas#crt {
+  position: absolute;
+  display: block;
+  left: 8.8468%;
+  top: 8.4355%;
+  width: 82.8971%;
+  height: 54.3297%;
+  background: #000;
+  border-radius: 1.19% / 1.44%;
+  box-shadow: inset 0 0 60px rgba(0, 0, 0, 0.9);
+}
+
+#keyboard-proxy {
+  position: absolute;
+  left: 25%;
+  top: 55%;
+  width: 50%;
+  height: 4px;
+  opacity: 0;
+  font-size: 16px;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  background: transparent;
+  color: transparent;
+  caret-color: transparent;
+  pointer-events: none;
+}
